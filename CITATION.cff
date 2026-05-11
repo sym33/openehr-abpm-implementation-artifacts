@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "openEHR ABPM Implementation Artifacts"
+message: "If you use these artifacts, please cite this repository."
+type: software
+authors:
+  - family-names: Bürki
+    given-names: Fabian Max
+  - family-names: Sariyar
+    given-names: Murat
+abstract: "Implementation artifacts for an openEHR-based outpatient 24-hour ambulatory blood pressure monitoring documentation prototype, including template exports, local archetype extensions, Better Studio prototype resources, and API development material."
+keywords:
+  - openEHR
+  - ambulatory blood pressure monitoring
+  - ABPM
+  - clinical data modeling
+  - health informatics
+  - interoperability
+license: MIT
+repository-code: "https://github.com/REPLACE_WITH_OWNER/openehr-abpm-implementation-artifacts"
+date-released: 2026-05-11
